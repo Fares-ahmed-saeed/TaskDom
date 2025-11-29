@@ -1,0 +1,8 @@
+h2 {
+font: bold 30px Arial, sans-serif;
+background-color: wheat;
+width: fit-content;
+display: flex;
+justify-content: center;
+align-items: center;
+}
